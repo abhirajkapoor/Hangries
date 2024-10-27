@@ -1,0 +1,20 @@
+div.italian {
+    justify-content: center;
+    border-style: double;
+    align-items: center;
+    position: relative;
+    text-align: center;
+}
+
+div.sadda {
+    justify-content: flex-end;
+    display: flex;
+}
+
+div.cart {
+    display: flex;
+}
+
+div.cart.h1 {
+    word-spacing: 40;
+}
